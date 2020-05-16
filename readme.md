@@ -62,9 +62,9 @@
     <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
-## Fonts
+## Ҳуруф
 
->Websites that offer free fonts as well as font based tools
+>Вебгоҳҳое, ки ҳуруфи ройгон ва ҳамчунин абзорҳои мубтанӣ ба ҳуруф пешниҳод мекунанд
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
