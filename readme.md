@@ -1,10 +1,10 @@
-# Design Resources For Developers
+# Манобеи тарроҳӣ барои тавсеадиҳандагон
 
-> A curated list of **FREE** design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.
+>Феҳристи манобеи тарроҳӣ ва [робити корбарии](# "UI") **РОЙГОН** барои  [тавсеадиҳандагон](# "Developers"), ки аз [аксҳои саҳом](# "stock photos"), [қолибҳо](# "templates"), [чорчубҳо](# "frameworks"), [бастаҳои робити корбарӣ](# "UI Kits"), [абзорҳои онлойн](# "online tools") ва хеле маводҳои дигар иборат аст.
 
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+#### Лутфан, қабл аз ирсоли манобеи нав сараввал [`роҳнамои мушорикат`](./contributing.md)-ро бихонед.
 
-## Table of Contents
+## Феҳристи матолиб
 
 - [UI Graphics](#ui-graphics)
 - [Fonts](#fonts)
