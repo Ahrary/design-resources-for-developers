@@ -6,8 +6,8 @@
 
 ## Феҳристи матолиб
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
+- [Грофикҳои робити корбарӣ](#грофикҳои-робити-корбарӣ "UI Graphics")
+- [Ҳуруф](#ҳуруф "Fonts")
 - [Colors](#colors)
 - [Icons](#icons)
 - [Icon Fonts](#icon-fonts)
@@ -26,7 +26,7 @@
 - [Angular UI Libraries](#angular-ui)
 - [Svelte UI Libraries](#svelte-ui)
 - [Design Systems & Style Guides](#design-systems--style-guides)
-- [Online Design Tools](#online-design-tools)
+- [Абзорҳои тарроҳии онлойн](#абзорҳои-тарроҳии-онлойн)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
