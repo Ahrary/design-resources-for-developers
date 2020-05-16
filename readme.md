@@ -32,11 +32,11 @@
 - [Image Compression](#Image-compression)
 - [Others](#others)
 
-## UI Graphics
+## Грофикҳои Робити Корбарӣ
 
->Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. They are great for ideas for web components/UI
+>Вебгоҳҳо ва манобеъ бо ҷузъҳои робити корбарии мудерн дар қолабҳои гуногун монанди PSD, Sketch, Figma ва ғайра. Онҳо барои идеаи ҷузъҳои веб ва робити корбарӣ фавқулода ҳастанд.
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| Вебгоҳ&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Шарҳ                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
