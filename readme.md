@@ -59,7 +59,7 @@
 | [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin     
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Fonts
@@ -94,7 +94,7 @@
 | [Befonts](https://befonts.com/) | High quality fonts for free |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Colors
@@ -138,7 +138,7 @@
 | [Saruwakakun](https://saruwakakun.com/en/color-ideas) | The stunning color scheme for website & App Designs with previews |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Icons
@@ -185,7 +185,7 @@
 | [appicon](https://appicon.co/)| Quickly generate app icons in diffrent sizes for your IOS, macOS and Android projects|
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Icon Fonts
@@ -214,7 +214,7 @@
 | [Fontello](http://fontello.com/)| 200+ web icons where you can customize the names or codes of icons. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Stock Photos
@@ -249,8 +249,9 @@
 | [FoodiesFeed](https://www.foodiesfeed.com/)| Food photo stock |
 | [Nappy](https://www.nappy.co/)| A website offering Beautiful, high-res photos of black and brown people.|
 | [Generated Photos](https://generated.photos/)| Unique AI Generated model photos|
+
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Stock Videos
@@ -268,7 +269,7 @@
 | [Videvo](https://www.videvo.net/stock-video-footage/)| Free and premium stock videos |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Stock Music & Sound Effects
@@ -286,7 +287,7 @@
 | [Unminus](https://www.unminus.com/)| Free Premium Music for Your Projects 🎁 Royalty Free. Cleared for YouTube. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Vectors & Clip Art
@@ -308,7 +309,7 @@
 | [Growwwkit illustrations](https://growwwkit.com/illustrations/phonies)| A set of 8 simple, black & white, stylish illustrations |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Product & Image Mockups
@@ -327,7 +328,7 @@
 | [Threed.io](https://threed.io)| Generate 3D mockups right in your browser. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## HTML & CSS Templates
@@ -356,7 +357,7 @@
 | [W3Layouts](https://w3layouts.com/)| W3Layouts: 3784+ Free Website Templates for 2020 |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## CSS Frameworks
@@ -395,7 +396,7 @@
 | [Shorthand](https://shorthandcss.com/) | Shorthand is a free and open source css framework, that allows you to make unique and modern design without writing any css |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## CSS Animations
@@ -420,7 +421,7 @@
 | [MOTION UI](https://zurb.com/playground/motion-ui)| A Sass library for creating flexible CSS transitions and animations |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Javascript Animation Libraries
@@ -439,7 +440,7 @@
 | [Animate On Scroll](https://michalsnik.github.io/aos/)| Animate on scroll library to reveal animations when You scroll. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## UI Components & Kits
@@ -469,7 +470,7 @@
 | [sweetalert2](https://sweetalert2.github.io/)| A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 
@@ -508,7 +509,7 @@
 | [React Suite](https://rsuitejs.com/en/)| A suite of React components, sensible UI design, and a friendly development experience. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Vue UI
@@ -531,7 +532,7 @@
 | [Antdv](https://antdv.com/)|UI library for Vue based on Ant Design |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Angular UI
@@ -552,7 +553,7 @@
 | [NG Zorro](https://ng.ant.design/)| UI library for Angular based on Ant Design |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Svelte UI
@@ -566,7 +567,7 @@
 | [Svelte Flat UI](https://svelteui.js.org/#/checkbox)|UI library for Svelte based on Flat Design |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Design Systems & Style Guides
@@ -608,7 +609,7 @@
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Online Design Tools
@@ -658,7 +659,7 @@
 | [Unscreen](https://www.unscreen.com/) | Remove Video Background 100% Automatically and Free |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Downloadable Design Software
@@ -683,7 +684,7 @@
 | [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Design Inspiration
@@ -714,7 +715,7 @@
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Image Compression
@@ -737,7 +738,7 @@
 | [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
 
 ## Others
@@ -758,5 +759,5 @@
 | [CleanCss](https://www.cleancss.com/)| Tool For Code Foramtter, Minifier, File Converter | 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
 </div>
