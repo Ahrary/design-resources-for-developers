@@ -38,25 +38,25 @@
 
 | Вебгоҳ&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Шарҳ                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
-| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
+| [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Маҷмӯаи ройгони маҳсулот, унсурҳо ва намоишҳо барои Figma                               |
+| [Animations.co](http://animaticons.co/)                                                                  | Икунҳои GIF-и мутаҳаррик, зебо ва қобили танзим                                         |
+| [Avataaars](https://avataaars.com/)                                                                      | Маҷмӯаи тарроҳии ройгони тасвирҳои овотор аз Pablo Stanley                              |
+| [Blush](https://blush.design/)                                                                           | Тасовири қобили танзими ройгон бо плогини Figma                                         |
+| [Drawkit.io](https://www.drawkit.io/)                                                                    | Тасвирҳо барои тарроҳон ва исторпотҳо                                                   |
+| [Humaaans](https://www.humaaans.com/)                                                                    | Тасвирҳои ҷолиби афрод бо тавоноии сириштан (омехта кардан - mix)                       |
+| [Illustration.co](https://illlustrations.co/)                                                            | Бастаи тасвирҳои манбаъбоз (Open-source)                                                |
+| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Маҷмӯаи бастаҳои Робити Корбарии кайфиятболо, ройгон, инчунин бастаҳои икунӣ ва муделҳо |
+| [UI Design Daily](https://uidesigndaily.com/)                                                            | Анвоъи гуногуни Ҷузъҳои Робити Корбарӣ                                                  |
 | [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
-| [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
 | [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
 | [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns       |
-| [Drawkit.io](https://www.drawkit.io/)                                                                    | Illustrations for designers and startups                           |
 | [Undraw.co](https://undraw.co/)                                                                          | Open-source illustrations for any idea you can imagine and create  |
-| [Illustration.co](https://illlustrations.co/)                                                            | Open-source illustrations kit                                      |
 | [Opendoodles](https://www.opendoodles.com/)                                                              | Free sketchy illustrations                                         |
 | [Open Peeps](https://www.openpeeps.com/)                                                                 | Hand drawn illustration library                                    |
 | [UI Space](https://uispace.net/)                                                                         | Thousands of great UI freebies                                     |
-| [Animations.co](http://animaticons.co/)                                                                  | Beautiful, customizable animated GIF icons                         |
 | [Uplabs](https://www.uplabs.com/)                                                                        | High-quality design resources (Free & Premium)                     |
-| [InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)                               | Library of free, high-quality UI kits, icon packs, and mockups     |
 | [Open Doodles](https://www.opendoodles.com/)                                                             | A Free Set of Sketchy Illustrations                                |
-| [Avataaars](https://avataaars.com/)                                                                      | Free sketch library of avatars illustrations by Pablo Stanley      |
 | [FreebieSketch](https://freebiesketch.com/)                                                              | Free Sketch designs, wireframes, illustrations, and more.          |
-| [Blush](https://blush.design/)                                                                           | Free customizable illustrations with Figma Plugin     
 
 <div align="right">
     <b><a href="#феҳристи-матолиб">↥ Бозгашт ба боло</a></b>
